@@ -1,0 +1,46 @@
+2020-10-16 10:36:34 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:36:35 MCGU1111 log in successfully
+2020-10-16 10:38:36 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:38:37 MCGU1111 log in successfully
+2020-10-16 10:41:21 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:41:22 MCGU1111 log in successfully
+2020-10-16 10:45:37 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:45:38 MCGU1111 log in successfully
+2020-10-16 10:51:24 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:51:25 MCGU1111 log in successfully
+2020-10-16 10:53:11 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 10:53:11 MCGU1111 log in successfully
+2020-10-16 12:10:43 MCGU1111 attempt to connect campus MCG on port number "1235"
+2020-10-16 12:12:43 MCGU1111 attempt to connect campus MCG on port number \"1236\"
+2020-10-16 12:16:00 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-16 12:16:00 MCGU1111 log in successfully
+2020-10-23 08:33:06 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-23 08:33:07 MCGU1111 log in successfully
+2020-10-23 08:33:07 Synchronization Error: 0.0 seconds
+2020-10-23 08:34:51 User [MCGU1111] borrow item [MCG2222] for [10] days ---> Success.
+2020-10-23 08:37:04 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-23 08:37:05 MCGU1111 log in successfully
+2020-10-23 08:37:05 Synchronization Error: 0.0 seconds
+2020-10-23 08:40:19 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-23 08:40:20 MCGU1111 log in successfully
+2020-10-23 08:40:20 Synchronization Error: 0.0 seconds
+2020-10-23 08:42:59 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-23 08:42:59 MCGU1111 log in successfully
+2020-10-23 08:42:59 Synchronization Error: 0.0 seconds
+2020-10-23 08:48:39 MCGU1111 attempt to connect campus MCG on port number 1236
+2020-10-23 08:48:40 MCGU1111 log in successfully
+2020-10-23 08:48:40 Synchronization Error: 0.0 seconds
+2020-10-23 08:48:47 User [MCGU1111] find item [Kafka on the Shore] ---> Success. All items: MCG1111 2
+2020-10-23 08:49:58 User [MCGU1111] borrow item [MCG2222] for [10] days ---> Success.
+2020-10-23 14:32:55 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-10-23 14:32:56 MCGU1111 log in successfully
+2020-10-23 14:32:56 Synchronization Error: 0.0 seconds
+2020-11-13 10:02:18 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-11-13 10:02:18 MCGU1111 log in successfully
+2020-11-13 10:02:39 MCGU1111 attempt to connect campus MCG on port number 1236
+2020-11-13 10:02:39 MCGU1111 log in successfully
+2020-11-13 10:04:07 MCGU1111 attempt to connect campus MCG on port number 1235
+2020-11-13 10:04:08 MCGU1111 log in successfully
+2020-11-13 10:04:55 MCGU1111 attempt to connect campus MCG on port number 1236
+2020-11-13 10:04:56 MCGU1111 log in successfully
+2020-11-13 10:04:56 Synchronization Error: 0.0 seconds

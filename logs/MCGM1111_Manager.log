@@ -1,0 +1,15 @@
+2020-08-21 16:38:53 MCGM1111 log in successfully
+2020-08-21 17:21:47 MCGM1111 log in successfully
+2020-09-04 16:48:24 MCGM1111 log in successfully
+2020-09-04 16:48:30 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 a 1 , MCG2222 b 2 , 
+2020-09-04 16:51:55 MCGM1111 log in successfully
+2020-09-04 16:52:00 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 
+2020-09-04 16:52:33 Manager [MCGM1111] add [1] of item [MCG3333] [After Dark] to server ---> Success
+2020-09-04 16:52:42 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , MCG3333 After Dark 1 , 
+2020-11-13 10:01:55 MCGM1111 log in successfully
+2020-11-13 18:03:33 MCGM1111 log in successfully
+2020-11-13 18:03:46 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 
+2020-11-13 18:04:15 Manager [MCGM1111] add [3] of item [MCG3333] [Book Three] to server ---> Success
+2020-11-13 18:04:19 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , MCG3333 Book Three 3 , 
+2020-11-13 18:04:44 Manager [MCGM1111] remove [-1] of item [MCG3333] from server ---> Failed
+2020-11-13 18:04:46 Manager [MCGM1111] list all items in server ---> Success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 

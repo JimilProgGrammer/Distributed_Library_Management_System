@@ -1,0 +1,45 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:46:04] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:13] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:14] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:16] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:25] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:27] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jun/2020 09:48:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:42:53] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:42:55] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:42:58] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:43:12] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:43:13] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:43:13] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 09:43:20] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:36:56] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:02] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:08] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:12] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:12] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:17] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:18] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:28] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:34] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Oct/2020 14:37:40] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:34] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:40] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:45] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:45] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:46] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:52] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:52] "[37mPOST /announce HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:17:59] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2020 10:18:03] "[37mGET /nodeDetails HTTP/1.1[0m" 200 -

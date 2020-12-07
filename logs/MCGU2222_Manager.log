@@ -1,0 +1,38 @@
+2020-10-16 10:37:00 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:37:01 MCGU2222 log in successfully
+2020-10-16 10:38:45 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:38:46 MCGU2222 log in successfully
+2020-10-16 10:41:31 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:41:32 MCGU2222 log in successfully
+2020-10-16 10:45:46 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:45:46 MCGU2222 log in successfully
+2020-10-16 10:51:38 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:51:39 MCGU2222 log in successfully
+2020-10-16 10:53:21 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-16 10:53:22 MCGU2222 log in successfully
+2020-10-16 12:16:18 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-10-16 12:16:19 MCGU2222 log in successfully
+2020-10-23 08:33:32 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-10-23 08:33:33 MCGU2222 log in successfully
+2020-10-23 08:33:33 Synchronization Error: 0.0 seconds
+2020-10-23 08:37:29 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-10-23 08:37:30 MCGU2222 log in successfully
+2020-10-23 08:37:30 Synchronization Error: 0.0 seconds
+2020-10-23 08:40:36 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-10-23 08:40:38 MCGU2222 log in successfully
+2020-10-23 08:40:38 Synchronization Error: 0.0 seconds
+2020-10-23 08:49:02 MCGU2222 attempt to connect campus MCG on port number 1235
+2020-10-23 08:49:03 MCGU2222 log in successfully
+2020-10-23 08:49:03 Synchronization Error: 0.0 seconds
+2020-10-23 08:49:18  User [MCGU2222] find item [Norwegian Woods] ---> Failed 
+2020-10-23 08:49:25 User [MCGU2222] find item [Norwegian Wood] ---> Success. All items: MCG2222 1
+2020-10-23 08:49:39 User [MCGU2222] borrow item [MCG2222] for [10] days ---> Success.
+2020-10-23 14:33:18 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-10-23 14:33:18 MCGU2222 log in successfully
+2020-10-23 14:33:18 Synchronization Error: 0.0 seconds
+2020-11-13 18:06:16 MCGU2222 attempt to connect campus MCG on port number 1236
+2020-11-13 18:06:19 MCGU2222 log in successfully
+2020-11-13 18:06:19 Synchronization Error: 0.0 seconds
+2020-11-13 18:07:21 User [MCGU2222] find item [Norwegian Wood] ---> Success. All items: MCG2222 1
+2020-11-13 18:07:38 User [MCGU2222] borrow item [MCG2222] for [10] days ---> Success.
+2020-11-13 18:07:53  User [MCGU2222] return item [MCG2222] --->  Success. 

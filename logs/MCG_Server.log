@@ -1,0 +1,77 @@
+2020-08-21 16:37:16 Server for MCG started
+2020-08-21 16:38:53 ManagerClient [MCGM1111] log in successfully
+2020-08-21 17:21:34 Server for MCG started
+2020-08-21 17:21:47 ManagerClient [MCGM1111] log in successfully
+2020-09-04 16:48:06 Server for MCG started
+2020-09-04 16:48:24 ManagerClient [MCGM1111] log in successfully
+2020-09-04 16:48:30 Manager MCGM1111 list all of item success. All Items: MCG1111 a 1 , MCG2222 b 2 , 
+2020-09-04 16:51:49 Server for MCG started
+2020-09-04 16:51:55 ManagerClient [MCGM1111] log in successfully
+2020-09-04 16:52:00 Manager MCGM1111 list all of item success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 
+2020-09-04 16:52:31Manager add [1] of item [MCG3333] success
+2020-09-04 16:52:42 Manager MCGM1111 list all of item success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , MCG3333 After Dark 1 , 
+2020-09-04 17:44:41 UserClient MCGU1222 log in successfully
+2020-09-04 17:45:23 UserClient MCGU1222 log in successfully
+2020-10-16 10:34:12 Server for MCG started
+2020-10-16 10:35:54 Server for MCG started
+2020-10-16 10:36:35 UserClient MCGU1111 log in successfully
+2020-10-16 10:37:01 UserClient MCGU2222 log in successfully
+2020-10-16 10:38:37 UserClient MCGU1111 log in successfully
+2020-10-16 10:38:46 UserClient MCGU2222 log in successfully
+2020-10-16 10:39:13 UserClient MCGU3333 log in successfully
+2020-10-16 10:41:22 UserClient MCGU1111 log in successfully
+2020-10-16 10:41:32 UserClient MCGU2222 log in successfully
+2020-10-16 10:45:38 UserClient MCGU1111 log in successfully
+2020-10-16 10:45:46 UserClient MCGU2222 log in successfully
+2020-10-16 10:51:25 UserClient MCGU1111 log in successfully
+2020-10-16 10:51:39 UserClient MCGU2222 log in successfully
+2020-10-16 10:53:11 UserClient MCGU1111 log in successfully
+2020-10-16 10:53:22 UserClient MCGU2222 log in successfully
+2020-10-16 12:16:00 UserClient MCGU1111 log in successfully
+2020-10-16 12:16:19 UserClient MCGU2222 log in successfully
+2020-10-23 08:32:25 Server for MCG started
+2020-10-23 08:32:44 Server for MCG started
+2020-10-23 08:33:07 UserClient MCGU1111 log in successfully
+2020-10-23 08:33:33 UserClient MCGU2222 log in successfully
+2020-10-23 08:34:51 User [MCGU1111] borrow item [MCG2222] success.
+2020-10-23 08:37:05 UserClient MCGU1111 log in successfully
+2020-10-23 08:37:30 UserClient MCGU2222 log in successfully
+2020-10-23 08:39:42 Server for MCG started
+2020-10-23 08:40:01 Server for MCG started
+2020-10-23 08:40:20 UserClient MCGU1111 log in successfully
+2020-10-23 08:40:38 UserClient MCGU2222 log in successfully
+2020-10-23 08:42:27 Server for MCG started
+2020-10-23 08:42:42 Server for MCG started
+2020-10-23 08:42:59 UserClient MCGU1111 log in successfully
+2020-10-23 08:48:12 Server for MCG started
+2020-10-23 08:48:26 Server for MCG started
+2020-10-23 08:48:40 UserClient MCGU1111 log in successfully
+2020-10-23 08:48:47 User [MCGU1111] found all item named [Kafka on the Shore] success . Items: MCG1111 2
+2020-10-23 08:49:03 UserClient MCGU2222 log in successfully
+2020-10-23 08:49:18 User [MCGU2222] found all item named [Norwegian Woods] failed. 
+2020-10-23 08:49:25 User [MCGU2222] found all item named [Norwegian Wood] success . Items: MCG2222 1
+2020-10-23 08:49:39 User [MCGU2222] borrow item [MCG2222] success.
+2020-10-23 08:49:58 User [MCGU1111] borrow item [MCG2222] success.
+2020-10-23 14:31:36 Server for MCG started
+2020-10-23 14:31:59 Server for MCG started
+2020-10-23 14:32:56 UserClient MCGU1111 log in successfully
+2020-10-23 14:33:18 UserClient MCGU2222 log in successfully
+2020-11-13 10:01:06 Server for MCG started
+2020-11-13 10:01:30 Server for MCG started
+2020-11-13 10:01:55 ManagerClient [MCGM1111] log in successfully
+2020-11-13 10:02:18 UserClient MCGU1111 log in successfully
+2020-11-13 10:02:39 UserClient MCGU1111 log in successfully
+2020-11-13 10:04:08 UserClient MCGU1111 log in successfully
+2020-11-13 10:04:56 UserClient MCGU1111 log in successfully
+2020-11-13 17:50:11 Server for MCG started
+2020-11-13 17:50:28 Server for MCG started
+2020-11-13 18:03:33 ManagerClient [MCGM1111] log in successfully
+2020-11-13 18:03:46 Manager MCGM1111 list all of item success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 
+2020-11-13 18:04:15Manager add [3] of item [MCG3333] success
+2020-11-13 18:04:19 Manager MCGM1111 list all of item success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , MCG3333 Book Three 3 , 
+2020-11-13 18:04:44 Manager [MCGM1111] delete item [MCG3333] success. 
+2020-11-13 18:04:46 Manager MCGM1111 list all of item success. All Items: MCG1111 Kafka on the Shore 2 , MCG2222 Norwegian Wood 1 , 
+2020-11-13 18:06:19 UserClient MCGU2222 log in successfully
+2020-11-13 18:07:21 User [MCGU2222] found all item named [Norwegian Wood] success . Items: MCG2222 1
+2020-11-13 18:07:38 User [MCGU2222] borrow item [MCG2222] success.
+2020-11-13 18:07:53 User [MCGU2222] return item [MCG2222] success.
